@@ -50,7 +50,7 @@ const questionBook = [
         b.Biriyani
         c.Rice & dal
       `,
-    answer: "biriyani"
+    answer: "b"
   },
   {
     question: `
@@ -59,7 +59,7 @@ const questionBook = [
         b.Andhra Pradhesh
         c.Karnataka
       `,
-    answer: "karnataka"
+    answer: "c"
   },
   {
     question: `
@@ -68,7 +68,7 @@ const questionBook = [
         b.Jajal
         c.Prototech
       `,
-    answer: "l&t"
+    answer: "a"
   },
   {
     question: `
@@ -77,7 +77,7 @@ const questionBook = [
         b.Hero
         c.Bajaj
       `,
-    answer: "tvs"
+    answer: "a"
   },
   {
     question: `
@@ -86,7 +86,7 @@ const questionBook = [
         b.Hyderabad
         c.Bangalore
       `,
-    answer: "bangalore"
+    answer: "c"
   }
 ]
 
